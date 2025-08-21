@@ -4,7 +4,7 @@ Bring your documents to life with LangChain Document Loaders ✨
 
 This repository is a collection of resources and examples that show how to use LangChain’s powerful document loading capabilities. Whether it’s a PDF report, a CSV dataset, or a plain text file, document loaders help transform raw content into structured data that large language models (LLMs) can understand.
 
-🌟 What’s Inside?
+# 🌟 What’s Inside?
 
 Multiple File Formats → Work with PDFs, Word files, text, CSVs, and JSON.
 
@@ -14,7 +14,7 @@ Real-World Examples → Practical scenarios to explore loaders in action.
 
 Extendability → Add your own custom loaders for unique data sources.
 
-🎯 Why Document Loaders?
+# 🎯 Why Document Loaders?
 
 Raw data comes in many shapes and sizes. LangChain document loaders act as a bridge between your data and LLMs. With them, you can:
 
@@ -26,7 +26,8 @@ Query structured datasets in natural language
 
 Create knowledge bases for RAG-powered systems
 
-🚀 Getting Started
+
+# 🚀 Getting Started
 
 Clone this repository
 
@@ -36,7 +37,7 @@ Explore the loaders and examples
 
 Start building your own AI workflows!
 
-🌍 Use Cases in the Wild
+# 🌍 Use Cases in the Wild
 
 📑 Research Assistants → Summarize academic papers
 
@@ -48,5 +49,5 @@ Start building your own AI workflows!
 
 🤝 Contributing
 
-Got an idea for a new loader or an improvement?
+# Got an idea for a new loader or an improvement?
 We welcome contributions — feel free to fork, experiment, and open a pull request.
